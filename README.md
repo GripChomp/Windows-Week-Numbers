@@ -6,6 +6,9 @@ A lightweight Windows application that displays the current ISO 8601 week number
 
 ![Beschrijving van de gif](./windows_week_numbers_demo_1.gif)
 
+## Buy me a coffee
+[![Buy Me A Coffee 8-bit](./support_me_with_coffees.png)](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=MmEGapIPSKSZTf9NOuXw1Q)
+
 
 ## Features
 
